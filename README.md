@@ -1,6 +1,6 @@
 # Storify
 
-Storify is a **cloud storage platform** built with [Next.js](https://nextjs.org). It allows users to upload, organize, and share their files seamlessly. The application supports a variety of file types, includes real-time search functionality, and provides a modern, user-friendly interface. Built with scalability and responsiveness in mind, Storify ensures a smooth user experience across devices.
+Storify is a **Cloud Storage Web App** built with [Next.js](https://nextjs.org). It allows users to upload, organize, and share their files seamlessly. The application supports a variety of file types, includes real-time search functionality, and provides a modern, user-friendly interface. Built with scalability and responsiveness in mind, Storify ensures a smooth user experience across devices.
 
 ## Features
 
