@@ -57,13 +57,13 @@ Follow these steps to get the development server up and running:
 To connect Storify to your database and cloud storage backend, set up the required environment variables in a `.env.local` file:
 
 ```env
-NEXT_PUBLIC_APPWRITE_ENDPOINT: The base URL for your Appwrite cloud instance.
-NEXT_PUBLIC_APPWRITE_PROJECT: The unique ID of your Appwrite project.
-NEXT_PUBLIC_APPWRITE_DATABASE: The ID of your Appwrite database.
-NEXT_PUBLIC_APPWRITE_USERS_COLLECTION: The ID of the users' collection in your database.
-NEXT_PUBLIC_APPWRITE_FILES_COLLECTION: The ID of the files' collection in your database.
-NEXT_PUBLIC_APPWRITE_BUCKET: The storage bucket ID for uploaded files.
-NEXT_APPWRITE_KEY: The API key to authenticate server-side requests.
+NEXT_PUBLIC_APPWRITE_ENDPOINT= The base URL for your Appwrite cloud instance.
+NEXT_PUBLIC_APPWRITE_PROJECT= The unique ID of your Appwrite project.
+NEXT_PUBLIC_APPWRITE_DATABASE= The ID of your Appwrite database.
+NEXT_PUBLIC_APPWRITE_USERS_COLLECTION= The ID of the users' collection in your database.
+NEXT_PUBLIC_APPWRITE_FILES_COLLECTION= The ID of the files' collection in your database.
+NEXT_PUBLIC_APPWRITE_BUCKET= The storage bucket ID for uploaded files.
+NEXT_APPWRITE_KEY= The API key to authenticate server-side requests.
 ```
 
 Replace placeholders with your backend configuration.
