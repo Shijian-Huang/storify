@@ -82,3 +82,19 @@ Replace placeholders with your backend configuration.
 You can easily deploy Storify on [Vercel](https://vercel.com). Follow the deployment documentation for more details:
 
 - [Vercel Deployment Guide](https://nextjs.org/docs/app/building-your-application/deploying)
+
+---
+
+## 📸 Screenshots
+
+### Sign In Page
+
+![Sign In](./assets/sign-in-page.png)
+
+### Dashboard with Uploaded Files
+
+![Dashboard](./assets/dashboard.png)
+
+### Image Preview Page
+
+![Images](./assets/image-preview.png)
